@@ -13,9 +13,15 @@ Each project needs to produce:
 - Some code in Python, Scala, or ...
 - a well-documented process for ETL, data pipelines, & analytical products
 
+## Project Ideas
+
 ### Recommender System
 
+a system tht suggests things based on a user profile.
+
 ### Google clone with Indexing, Map/Reduce.
+
+clone a search service
 
 ### Machine Learning 
 
@@ -37,7 +43,7 @@ clustering, hierarchical clustering,
 
 something with maps, data and analysis.
 
-
+-----
 
 ## Also from this day:
 
